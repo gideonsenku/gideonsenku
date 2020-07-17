@@ -1,5 +1,15 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gideonsenku)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
+- 🔭 I’m currently studying on a not bad university 
+- 🌱 I’m currently learning JavaScript/Webpack/
+- 💬 Ask me about: JavaScript/Web Spidder 
+- 📫 How to reach me: [@Gideon_Senku](https://t.me/Gideon_Senku)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I ❤️ 🎵
+
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **GideonSenku/GideonSenku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

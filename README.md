@@ -10,7 +10,8 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js       2 hrs 4 mins    ██████████████████████▓░░   90.52 % 
+JavaScript   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -1,6 +1,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gideonsenku)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
-- 🔭 I’m currently studying on a not bad university 
+- 🔭 I’m currently working at echotech
 - 🌱 I’m currently learning JavaScript/TypeScript/Vue3/Vite...
 - 💬 Ask me about: JavaScript/Web Spidder 
 - 📫 How to reach me: [@Gideon_Senku](https://t.me/Gideon_Senku)

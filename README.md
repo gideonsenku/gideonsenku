@@ -11,7 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue          2 hrs 2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
+Other        1 hr 48 mins          █████░░░░░░░░░░░░░░░░░░░░   20.58 %
+Dart         1 hr 4 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Markdown     1 hr                  ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+TypeScript   39 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 ```
 
 <!--END_SECTION:waka-->
